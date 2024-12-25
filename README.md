@@ -39,6 +39,7 @@ dht.readTemperature() and dht.readHumidity() functions can be
 used.
 ● XML Data Format:Data is prepared in XML format. For
 example:
+
 ![XMLData](https://github.com/user-attachments/assets/a4ba4659-6b44-4358-a349-dd0aa3984711)
 
 HTTP POST Request:Data is sent to the server.If the HTTP response code is successful, the submission is considered successful.In case of an error, the error message is printed via the serial port and led will switched on during 2 seconds.
