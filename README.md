@@ -1,12 +1,14 @@
 # IoT_WareHouse_Status_Check
 
 1- Necessary Libraries
+
 ● WiFi.h: Required to use ESP32's Wi-Fi feature.
 ● HTTPClient.h: Used to send and receive data over HTTP.
 ● DHT.h: Used to communicate with the temperature and humidity sensor DHT11 or DHT22.
 ● LiquidCrystal.h: Used to control the LCD display.
 
 2- Variable Definitions
+
 ● ssid and password: SSID (network name) and password used to connect to the Wi-Fi network.
 ● serverUrl: URL of the server used to send and receive data.
 ● ledPin: Pin defined to control an LED (GPIO2).
