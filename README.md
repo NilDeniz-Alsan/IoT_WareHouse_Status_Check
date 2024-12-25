@@ -51,3 +51,7 @@ HTTP POST Request:Data is sent to the server.If the HTTP response code is succes
 fetchData() Function: Gets data from the server and displays it on the LCD.
 ● HTTP GET Request:A GET request is sent to the server.If the response is successful, the received data is displayed on the serial port and the LCD and led will switched on during 2 seconds.
 ● Display on the LCD:The LCD screen can display only the first 16 characters of the data.
+
+## Output
+![Output](https://github.com/user-attachments/assets/6c3b41da-4537-4d70-86b4-2f240b515b57)
+
