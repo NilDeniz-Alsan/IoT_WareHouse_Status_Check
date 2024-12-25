@@ -39,10 +39,8 @@ sendData() Function: Sends sensor data to the server in XML format.
 ● Temperature and Humidity Data: For testing purposes, a
 random temperature and humidity value is generated with the
 random() function.In the real project, the
-dht.readTemperature() and dht.readHumidity() functions can be
-used.
-● XML Data Format:Data is prepared in XML format. For
-example:
+dht.readTemperature() and dht.readHumidity() functions can be used.
+● XML Data Format:Data is prepared in XML format. For example:
 
 ![XMLData](https://github.com/user-attachments/assets/a4ba4659-6b44-4358-a349-dd0aa3984711)
 
@@ -51,6 +49,9 @@ HTTP POST Request:Data is sent to the server.If the HTTP response code is succes
 fetchData() Function: Gets data from the server and displays it on the LCD.
 ● HTTP GET Request:A GET request is sent to the server.If the response is successful, the received data is displayed on the serial port and the LCD and led will switched on during 2 seconds.
 ● Display on the LCD:The LCD screen can display only the first 16 characters of the data.
+
+## Target Url:
+![Ekran görüntüsü 2024-12-24 190108](https://github.com/user-attachments/assets/bc7cae02-9de1-43dc-94c9-85503bf7d936)
 
 ## Output
 ![Output](https://github.com/user-attachments/assets/6c3b41da-4537-4d70-86b4-2f240b515b57)
