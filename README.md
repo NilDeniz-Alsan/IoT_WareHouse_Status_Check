@@ -51,7 +51,7 @@ fetchData() Function: Gets data from the server and displays it on the LCD.
 ● Display on the LCD:The LCD screen can display only the first 16 characters of the data.
 
 ## Target Url:
-![Ekran görüntüsü 2024-12-24 190108](https://github.com/user-attachments/assets/bc7cae02-9de1-43dc-94c9-85503bf7d936)
+![Ekran görüntüsü 2024-12-25 125334](https://github.com/user-attachments/assets/5450ab06-89f0-4e41-b863-56689407cbb7)
 
 ## Output
 ![Output](https://github.com/user-attachments/assets/6c3b41da-4537-4d70-86b4-2f240b515b57)
